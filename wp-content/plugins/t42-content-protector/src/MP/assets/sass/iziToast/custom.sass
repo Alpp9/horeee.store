@@ -1,0 +1,100 @@
+/**
+ * Content Protector for WordPress. Exclusively on Envato Market: https://1.envato.market/42themeCC
+ * @encoding     UTF-8
+ * @version      1.0.9
+ * @copyright    Copyright (C) 2016 - 2021 42Theme (https://42theme.com). All rights reserved.
+ * @license      Envato Standard Licenses
+ * @author       Alexander Khmelnitskiy
+ * @support      support@42theme.com
+ **/
+
+// Informers
+.iziToast-wrapper
+
+  .iziToast:after
+    box-shadow: none
+
+  .iziToast-color-blue,
+  .iziToast-color-red,
+  .iziToast-color-green
+    background: #fff
+    box-shadow: 0 2px 6px #dadce0
+    border-radius: 6px !important
+    overflow: hidden
+    padding: 0
+    min-height: 50px
+    margin-right: 16px
+    margin-bottom: 12px
+
+    .iziToast-body
+      margin: 0
+      min-height: 50px
+      padding-left: 72px !important
+      padding-right: 42px
+
+      .iziToast-icon
+        border-radius: 6px
+        background-color: #1a73e8
+        color: #ffffff
+        height: 50px
+        padding: 0 27px
+
+        &.ico-info
+          background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-36 344h12V232h-12c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h48c6.627 0 12 5.373 12 12v140h12c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12h-72c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12zm36-240c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z'/%3E%3C/svg%3E%0A")
+          background-repeat: no-repeat
+          background-position: center center
+          background-size: 22px
+          margin: 0
+          top: 0
+          border-top-right-radius: 0
+          border-bottom-right-radius: 0
+
+      .iziToast-texts
+        margin: 12px 0 0 0
+
+      .iziToast-title
+        color: #424242
+        font-size: 16px
+        font-weight: 600
+        line-height: 24px
+
+      .iziToast-message
+        color: #424242
+        font-size: 16px
+        font-weight: 400
+        line-height: 24px
+
+    .iziToast-progressbar > div
+      background-color: #1a73e8
+
+.iziToast-wrapper .iziToast-color-red .iziToast-body .iziToast-icon
+  background-color: #ea4335
+
+  &.ico-ban
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zM103.265 408.735c-80.622-80.622-84.149-208.957-10.9-293.743l304.644 304.643c-84.804 73.264-213.138 69.706-293.744-10.9zm316.37-11.727L114.992 92.365c84.804-73.263 213.137-69.705 293.743 10.9 80.622 80.621 84.149 208.957 10.9 293.743z'/%3E%3C/svg%3E%0A")
+    background-repeat: no-repeat
+    background-position: center center
+    background-size: 22px
+    margin: 0
+    top: 0
+    border-top-right-radius: 0
+    border-bottom-right-radius: 0
+
+.iziToast-wrapper .iziToast-color-red .iziToast-progressbar > div
+  background-color: #ea4335
+
+.iziToast-wrapper .iziToast-color-green .iziToast-body .iziToast-icon
+  background-color: #28a85a
+
+  &.ico-check
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z'/%3E%3C/svg%3E%0A")
+    background-repeat: no-repeat
+    background-position: center center
+    background-size: 22px
+    margin: 0
+    top: 0
+    border-top-right-radius: 0
+    border-bottom-right-radius: 0
+
+.iziToast-wrapper .iziToast-color-green .iziToast-progressbar > div
+  background-color: #28a85a

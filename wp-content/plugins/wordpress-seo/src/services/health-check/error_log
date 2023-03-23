@@ -1,0 +1,4 @@
+[15-Oct-2022 17:56:34 UTC] PHP Fatal error:  Uncaught Error: Class "Yoast\WP\SEO\Services\Health_Check\Health_Check" not found in /home/hord8138/public_html/wp-content/plugins/wordpress-seo/src/services/health-check/curl-check.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-content/plugins/wordpress-seo/src/services/health-check/curl-check.php on line 8

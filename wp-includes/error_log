@@ -1,0 +1,2192 @@
+[27-Aug-2022 07:06:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[27-Aug-2022 07:06:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[30-Aug-2022 02:14:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[30-Aug-2022 02:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[04-Sep-2022 15:15:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 15:18:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[05-Sep-2022 06:48:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[05-Sep-2022 06:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[10-Sep-2022 10:29:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[10-Sep-2022 10:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[11-Sep-2022 20:38:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 20:38:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[14-Sep-2022 14:08:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 14:08:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Sep-2022 10:17:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Sep-2022 10:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Sep-2022 14:43:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Sep-2022 14:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[17-Sep-2022 20:15:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 20:16:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[18-Sep-2022 09:17:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 09:19:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[19-Sep-2022 00:16:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[19-Sep-2022 00:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[19-Sep-2022 04:41:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[19-Sep-2022 04:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[20-Sep-2022 19:23:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[20-Sep-2022 19:23:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[21-Sep-2022 09:48:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[21-Sep-2022 09:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[22-Sep-2022 05:40:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[22-Sep-2022 05:42:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[24-Sep-2022 00:35:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[24-Sep-2022 00:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[26-Sep-2022 11:03:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[26-Sep-2022 11:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[27-Sep-2022 05:31:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[27-Sep-2022 05:33:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[01-Oct-2022 04:39:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 04:39:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[03-Oct-2022 13:46:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[03-Oct-2022 13:47:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[04-Oct-2022 04:29:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[04-Oct-2022 04:30:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[05-Oct-2022 11:24:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[05-Oct-2022 11:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[07-Oct-2022 07:58:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[07-Oct-2022 07:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[09-Oct-2022 01:48:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 01:49:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Oct-2022 18:26:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Oct-2022 18:27:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Oct-2022 19:02:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Oct-2022 19:03:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[14-Oct-2022 19:32:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[14-Oct-2022 19:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[16-Oct-2022 05:28:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[16-Oct-2022 05:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[16-Oct-2022 06:52:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[16-Oct-2022 06:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[22-Oct-2022 01:19:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[22-Oct-2022 01:22:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[24-Oct-2022 08:55:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[24-Oct-2022 08:55:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[26-Oct-2022 20:13:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 20:14:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[28-Oct-2022 00:27:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 00:28:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[31-Oct-2022 23:42:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[31-Oct-2022 23:42:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[02-Nov-2022 17:03:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[02-Nov-2022 17:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[03-Nov-2022 00:59:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[03-Nov-2022 01:01:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[05-Nov-2022 18:50:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[05-Nov-2022 18:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[05-Nov-2022 18:50:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[05-Nov-2022 18:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Nov-2022 03:57:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Nov-2022 03:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Nov-2022 03:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Nov-2022 03:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[18-Nov-2022 03:16:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[18-Nov-2022 03:16:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Nov-2022 03:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Nov-2022 03:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[18-Nov-2022 17:11:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[18-Nov-2022 17:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Nov-2022 17:11:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Nov-2022 17:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[23-Nov-2022 15:24:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[23-Nov-2022 15:24:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[23-Nov-2022 15:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[23-Nov-2022 15:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[25-Nov-2022 06:00:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[25-Nov-2022 06:00:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Nov-2022 06:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Nov-2022 06:00:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[26-Nov-2022 10:21:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[26-Nov-2022 10:21:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[26-Nov-2022 10:21:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[26-Nov-2022 10:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[26-Nov-2022 14:22:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[26-Nov-2022 14:23:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[26-Nov-2022 14:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[26-Nov-2022 14:27:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[27-Nov-2022 14:45:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[27-Nov-2022 14:45:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Nov-2022 14:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Nov-2022 14:47:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[28-Nov-2022 23:23:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[28-Nov-2022 23:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Nov-2022 23:23:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Nov-2022 23:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[29-Nov-2022 11:27:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 11:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Nov-2022 11:27:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Nov-2022 11:28:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[29-Nov-2022 21:40:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 21:40:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Nov-2022 21:40:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Nov-2022 21:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[01-Dec-2022 08:43:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 08:43:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[01-Dec-2022 08:43:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[01-Dec-2022 08:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[01-Dec-2022 12:02:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 12:02:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[01-Dec-2022 12:02:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[01-Dec-2022 12:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[01-Dec-2022 12:22:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/compat.php:342
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/compat.php on line 342
+[01-Dec-2022 12:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hord8138/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class.wp-dependencies.php on line 11
+[01-Dec-2022 16:40:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 16:40:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[01-Dec-2022 16:40:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[01-Dec-2022 16:40:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[01-Dec-2022 21:05:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 21:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[01-Dec-2022 21:06:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[01-Dec-2022 21:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[03-Dec-2022 09:18:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[03-Dec-2022 09:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Dec-2022 09:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Dec-2022 09:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[03-Dec-2022 12:31:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[03-Dec-2022 12:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Dec-2022 12:31:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Dec-2022 12:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[04-Dec-2022 13:35:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[04-Dec-2022 13:35:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[04-Dec-2022 13:35:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Dec-2022 13:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[04-Dec-2022 15:18:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[04-Dec-2022 15:18:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[04-Dec-2022 15:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Dec-2022 15:18:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[05-Dec-2022 14:03:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[05-Dec-2022 14:04:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[05-Dec-2022 14:04:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[05-Dec-2022 14:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[06-Dec-2022 05:02:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 05:02:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Dec-2022 05:02:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Dec-2022 05:02:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[06-Dec-2022 18:53:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 18:53:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 18:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Dec-2022 18:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Dec-2022 18:53:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Dec-2022 18:53:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Dec-2022 18:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[06-Dec-2022 18:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[07-Dec-2022 14:08:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[07-Dec-2022 14:09:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[07-Dec-2022 14:10:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Dec-2022 14:11:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Dec-2022 14:11:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Dec-2022 14:12:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Dec-2022 14:17:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[07-Dec-2022 14:18:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[07-Dec-2022 19:12:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[07-Dec-2022 19:12:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Dec-2022 19:12:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Dec-2022 19:12:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[08-Dec-2022 05:05:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[08-Dec-2022 05:06:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Dec-2022 05:06:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Dec-2022 05:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[09-Dec-2022 23:30:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[09-Dec-2022 23:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[09-Dec-2022 23:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[09-Dec-2022 23:31:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[11-Dec-2022 13:23:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[11-Dec-2022 13:23:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[11-Dec-2022 13:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[11-Dec-2022 13:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[11-Dec-2022 14:13:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[11-Dec-2022 14:14:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[11-Dec-2022 14:14:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[11-Dec-2022 14:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[12-Dec-2022 21:33:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[12-Dec-2022 21:33:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Dec-2022 21:34:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Dec-2022 21:34:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Dec-2022 06:10:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:10:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:10:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Dec-2022 06:11:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Dec-2022 06:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Dec-2022 06:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Dec-2022 06:12:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Dec-2022 06:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Dec-2022 10:21:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Dec-2022 10:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Dec-2022 10:21:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Dec-2022 10:22:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Dec-2022 20:45:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Dec-2022 20:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Dec-2022 20:45:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Dec-2022 20:46:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[16-Dec-2022 18:47:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[16-Dec-2022 18:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[16-Dec-2022 18:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[16-Dec-2022 18:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[19-Dec-2022 09:37:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[19-Dec-2022 09:37:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[19-Dec-2022 09:38:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[19-Dec-2022 09:38:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[20-Dec-2022 03:59:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[20-Dec-2022 03:59:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Dec-2022 03:59:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Dec-2022 03:59:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[23-Dec-2022 03:46:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[23-Dec-2022 03:47:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[23-Dec-2022 03:47:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[23-Dec-2022 03:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[23-Dec-2022 16:30:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[23-Dec-2022 16:30:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[23-Dec-2022 16:30:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[23-Dec-2022 16:31:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[29-Dec-2022 19:36:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[29-Dec-2022 19:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Dec-2022 19:36:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Dec-2022 19:36:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[30-Dec-2022 15:03:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[30-Dec-2022 15:03:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[30-Dec-2022 15:03:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[30-Dec-2022 15:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[04-Jan-2023 07:22:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[04-Jan-2023 07:23:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[04-Jan-2023 07:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Jan-2023 07:28:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[06-Jan-2023 09:20:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[06-Jan-2023 09:20:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Jan-2023 09:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Jan-2023 09:25:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[08-Jan-2023 18:02:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jan-2023 18:02:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Jan-2023 18:02:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Jan-2023 18:03:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[09-Jan-2023 09:23:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jan-2023 09:23:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[09-Jan-2023 09:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[09-Jan-2023 09:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[10-Jan-2023 11:59:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jan-2023 11:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[10-Jan-2023 11:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[10-Jan-2023 12:00:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[10-Jan-2023 16:14:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jan-2023 16:14:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[10-Jan-2023 16:14:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[10-Jan-2023 16:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[10-Jan-2023 19:17:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jan-2023 19:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[10-Jan-2023 19:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[10-Jan-2023 19:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Jan-2023 15:00:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jan-2023 15:00:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Jan-2023 15:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Jan-2023 15:00:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Jan-2023 16:08:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jan-2023 16:08:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Jan-2023 16:08:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Jan-2023 16:09:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Jan-2023 23:33:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jan-2023 23:33:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Jan-2023 23:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Jan-2023 23:34:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[14-Jan-2023 01:46:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jan-2023 01:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Jan-2023 01:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Jan-2023 01:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[14-Jan-2023 05:58:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jan-2023 05:59:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Jan-2023 05:59:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Jan-2023 06:00:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Jan-2023 12:53:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jan-2023 12:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Jan-2023 12:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Jan-2023 12:54:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[18-Jan-2023 05:50:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[18-Jan-2023 05:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Jan-2023 05:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Jan-2023 05:50:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[18-Jan-2023 21:57:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[18-Jan-2023 21:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Jan-2023 21:57:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Jan-2023 21:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[24-Jan-2023 09:11:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[24-Jan-2023 09:11:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[24-Jan-2023 09:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[24-Jan-2023 09:11:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[26-Jan-2023 23:04:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[26-Jan-2023 23:04:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[26-Jan-2023 23:04:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[26-Jan-2023 23:05:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[27-Jan-2023 05:05:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jan-2023 05:05:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Jan-2023 05:05:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Jan-2023 05:06:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[28-Jan-2023 15:00:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jan-2023 15:00:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Jan-2023 15:00:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Jan-2023 15:00:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[29-Jan-2023 07:24:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2023 07:24:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Jan-2023 07:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Jan-2023 07:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[30-Jan-2023 19:27:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jan-2023 19:27:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[30-Jan-2023 19:27:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[30-Jan-2023 19:27:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[31-Jan-2023 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[31-Jan-2023 13:48:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[31-Jan-2023 13:48:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[31-Jan-2023 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[31-Jan-2023 18:46:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[31-Jan-2023 18:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[31-Jan-2023 18:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[31-Jan-2023 18:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[01-Feb-2023 15:46:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[01-Feb-2023 15:46:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[01-Feb-2023 15:46:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[01-Feb-2023 15:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[02-Feb-2023 07:39:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[02-Feb-2023 07:39:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Feb-2023 07:39:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Feb-2023 07:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[02-Feb-2023 14:55:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[02-Feb-2023 14:56:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Feb-2023 14:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Feb-2023 14:57:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[03-Feb-2023 03:26:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[03-Feb-2023 03:26:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Feb-2023 03:26:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Feb-2023 03:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[03-Feb-2023 12:05:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[03-Feb-2023 12:05:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Feb-2023 12:05:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Feb-2023 12:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[06-Feb-2023 10:20:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[06-Feb-2023 10:20:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Feb-2023 10:20:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Feb-2023 10:21:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[10-Feb-2023 01:18:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[10-Feb-2023 01:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[10-Feb-2023 01:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[10-Feb-2023 01:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[12-Feb-2023 03:10:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[12-Feb-2023 03:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Feb-2023 03:10:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Feb-2023 03:10:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[12-Feb-2023 13:19:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[12-Feb-2023 13:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Feb-2023 13:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Feb-2023 13:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[12-Feb-2023 21:33:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[12-Feb-2023 21:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Feb-2023 21:33:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Feb-2023 21:34:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Feb-2023 01:21:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Feb-2023 01:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Feb-2023 01:21:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Feb-2023 01:21:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[14-Feb-2023 07:54:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[14-Feb-2023 07:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Feb-2023 07:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Feb-2023 07:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[14-Feb-2023 10:12:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[14-Feb-2023 10:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Feb-2023 10:12:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Feb-2023 10:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Feb-2023 18:05:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Feb-2023 18:05:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Feb-2023 18:05:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Feb-2023 18:05:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[17-Feb-2023 07:43:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[17-Feb-2023 07:43:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-Feb-2023 07:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[17-Feb-2023 07:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[18-Feb-2023 01:26:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[18-Feb-2023 01:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Feb-2023 01:27:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Feb-2023 01:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[19-Feb-2023 20:38:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[19-Feb-2023 20:38:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[19-Feb-2023 20:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[19-Feb-2023 20:39:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[20-Feb-2023 21:22:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[20-Feb-2023 21:22:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Feb-2023 21:22:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Feb-2023 21:23:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[21-Feb-2023 05:01:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[21-Feb-2023 05:01:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[21-Feb-2023 05:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[21-Feb-2023 05:02:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[22-Feb-2023 10:01:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[22-Feb-2023 10:01:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[22-Feb-2023 10:01:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[22-Feb-2023 10:02:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[25-Feb-2023 01:30:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[25-Feb-2023 01:30:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Feb-2023 01:30:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Feb-2023 01:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[25-Feb-2023 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[25-Feb-2023 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Feb-2023 10:29:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Feb-2023 10:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[26-Feb-2023 05:44:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[26-Feb-2023 05:44:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[26-Feb-2023 05:44:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[26-Feb-2023 05:45:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[26-Feb-2023 12:15:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[26-Feb-2023 12:15:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[26-Feb-2023 12:15:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[26-Feb-2023 12:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[27-Feb-2023 03:51:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[27-Feb-2023 03:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Feb-2023 03:51:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Feb-2023 03:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[28-Feb-2023 03:20:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 03:20:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Feb-2023 03:20:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Feb-2023 03:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[28-Feb-2023 04:21:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 04:22:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Feb-2023 04:22:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Feb-2023 04:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[28-Feb-2023 12:15:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 12:15:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Feb-2023 12:15:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Feb-2023 12:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[28-Feb-2023 23:24:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[28-Feb-2023 23:24:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Feb-2023 23:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Feb-2023 23:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[04-Mar-2023 00:00:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[04-Mar-2023 00:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[04-Mar-2023 00:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Mar-2023 00:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[06-Mar-2023 02:33:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[06-Mar-2023 02:33:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Mar-2023 02:34:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Mar-2023 02:34:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[06-Mar-2023 08:29:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[06-Mar-2023 08:29:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Mar-2023 08:29:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Mar-2023 08:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[07-Mar-2023 12:08:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[07-Mar-2023 12:08:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Mar-2023 12:08:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Mar-2023 12:08:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[08-Mar-2023 11:27:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[08-Mar-2023 11:27:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Mar-2023 11:27:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Mar-2023 11:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[09-Mar-2023 01:58:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[09-Mar-2023 01:58:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[09-Mar-2023 01:58:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[09-Mar-2023 01:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[11-Mar-2023 10:24:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[11-Mar-2023 10:24:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[11-Mar-2023 10:25:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[11-Mar-2023 10:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[11-Mar-2023 13:25:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[11-Mar-2023 13:25:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[11-Mar-2023 13:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[11-Mar-2023 13:26:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[11-Mar-2023 19:08:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[11-Mar-2023 19:08:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[11-Mar-2023 19:08:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[11-Mar-2023 19:08:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[13-Mar-2023 12:02:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[13-Mar-2023 12:03:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Mar-2023 12:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Mar-2023 12:03:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[14-Mar-2023 10:46:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[14-Mar-2023 10:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Mar-2023 10:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Mar-2023 10:47:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Mar-2023 02:18:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Mar-2023 02:18:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Mar-2023 02:18:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Mar-2023 02:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Mar-2023 06:32:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Mar-2023 06:32:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Mar-2023 06:32:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Mar-2023 06:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[15-Mar-2023 21:01:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[15-Mar-2023 21:01:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Mar-2023 21:01:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Mar-2023 21:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[17-Mar-2023 18:16:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[17-Mar-2023 18:16:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-Mar-2023 18:16:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[17-Mar-2023 18:17:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[18-Mar-2023 04:35:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[18-Mar-2023 04:35:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Mar-2023 04:35:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Mar-2023 04:36:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[18-Mar-2023 09:00:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[18-Mar-2023 09:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Mar-2023 09:00:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Mar-2023 09:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[20-Mar-2023 06:16:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[20-Mar-2023 06:16:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Mar-2023 06:16:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Mar-2023 06:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[20-Mar-2023 22:55:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[20-Mar-2023 22:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Mar-2023 22:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Mar-2023 22:55:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[21-Mar-2023 03:04:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[21-Mar-2023 03:04:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[21-Mar-2023 03:04:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[21-Mar-2023 03:05:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[21-Mar-2023 12:27:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[21-Mar-2023 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[21-Mar-2023 12:28:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[21-Mar-2023 12:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[22-Mar-2023 04:48:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[22-Mar-2023 04:48:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[22-Mar-2023 04:48:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[22-Mar-2023 04:48:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12
+[22-Mar-2023 21:09:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hord8138/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-http.php on line 11
+[22-Mar-2023 21:09:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-scripts.php on line 18
+[22-Mar-2023 21:09:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/hord8138/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/class-wp-styles.php on line 18
+[22-Mar-2023 21:10:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hord8138/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-includes/template-canvas.php on line 12

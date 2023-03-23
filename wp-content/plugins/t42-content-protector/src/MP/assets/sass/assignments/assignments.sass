@@ -1,0 +1,227 @@
+/**
+ * Content Protector for WordPress. Exclusively on Envato Market: https://1.envato.market/42themeCC
+ * @encoding     UTF-8
+ * @version      1.0.9
+ * @copyright    Copyright (C) 2016 - 2021 42Theme (https://42theme.com). All rights reserved.
+ * @license      Envato Standard Licenses
+ * @author       Alexander Khmelnitskiy
+ * @support      support@42theme.com
+ **/
+
+.wp-core-ui #t42-assign-box select
+  max-width: none
+
+.t42-button-group
+  .t42-button-danger,
+  .t42-button-success,
+  .t42-button-primary
+    background: #f7f7f7
+    color: #666
+    border: 1px solid rgba(0, 0, 0, 0.2)
+    border-bottom-color: rgba(0, 0, 0, 0.3)
+    text-shadow: 0 1px 0 #fff
+
+  .t42-button-danger:hover,
+  .t42-button-success:hover,
+  .t42-button-primary:hover
+    border: 1px solid rgba(0, 0, 0, 0.3) !important
+
+  .t42-button-danger.t42-active
+    background-color: #d32c46
+    color: #fff
+    border-color: rgba(0, 0, 0, 0.2)
+    border-bottom-color: rgba(0, 0, 0, 0.4)
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2)
+
+  .t42-button-success.t42-active
+    background-color: #82bb42
+    color: #fff
+    border-color: rgba(0, 0, 0, 0.2)
+    border-bottom-color: rgba(0, 0, 0, 0.4)
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2)
+
+  .t42-button-primary.t42-active
+    background-color: #009dd8
+    color: #fff
+    border-color: rgba(0, 0, 0, 0.2)
+    border-bottom-color: rgba(0, 0, 0, 0.4)
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2)
+
+.period_picker_box
+  z-index: 999999 !important
+
+#t42-assign-box
+
+  .t42-panel-box
+    position: relative
+    border: 1px solid #ececec
+    background: #fff
+    border-radius: 6px
+    padding: 32px
+
+    + .t42-panel-box
+      margin-top: 32px
+
+    &:not(.t42-matching-method):before
+      content: ''
+      display: block
+      position: absolute
+      top: -1px
+      left: -1px
+      width: 8px
+      height: calc(100% + 2px)
+      border-top-left-radius: 6px
+      border-bottom-left-radius: 6px
+      background-color: #dadce0
+
+    &.t42-green
+      border: 1px solid #28a85a
+
+      &:before
+        background-color: #28a85a
+
+
+    &.t42-red
+      border: 1px solid #ea4335
+
+      &:before
+        background-color: #ea4335
+
+  .t42-url-field
+    width: 100%
+    height: 150px
+
+  .t42-modal-header .t42-modal-close
+    position: absolute
+    top: 22px
+    right: 22px
+
+
+.search-choice-close
+  -webkit-transition: none
+  transition: none
+
+.t42-php-box > pre
+  display: block
+  padding: 8.5px
+  margin: 0 0 9px
+  font-size: 12px
+  line-height: 18px
+  word-break: break-all
+  word-wrap: break-word
+  white-space: pre-wrap
+  background-color: #f5f5f5
+  border: 1px solid rgba(0, 0, 0, 0.15)
+  -webkit-border-radius: 3px
+  -moz-border-radius: 3px
+  border-radius: 3px
+
+#t42-php-field + .CodeMirror-wrap
+  border: 1px solid #d1d1d1
+  margin-top: 16px
+  
+// Assignments
+#t42-assign-box
+
+  // Select2
+  .select2-container--default .select2-selection--multiple .select2-selection__choice
+    padding: 2px 5px
+    font-size: 16px
+    font-weight: 400
+    line-height: 24px
+
+  .select2-container--default .select2-selection--multiple .select2-selection__rendered li
+    margin-bottom: 0
+
+  //  Button group
+  .t42-button-group
+    border-radius: 6px
+    border: 1px solid #ececec
+    max-width: 300px
+    display: flex
+
+    .t42-button
+      outline: none
+      border: none !important
+      border-radius: 6px
+      -webkit-box-flex: 1
+      flex-grow: 1
+      color: #424242
+      font-size: 16px
+      font-weight: 400
+      line-height: 16px
+      background: #fff
+      min-height: 36px
+
+      &:hover
+        background-color: rgba(223, 223, 223, 0.3)
+
+      &.t42-button-primary.t42-active
+        background-color: #dadce0
+
+      &.t42-button-success.t42-active
+        background-color: #28a85a
+        color: #fff
+
+      &.t42-button-danger.t42-active
+        background-color: #ea4335
+        color: #fff
+  
+// Assignments Tab
+.t42-tab-assignments-box
+
+  #t42-assign-box
+    max-width: 860px
+
+  .t42-alert
+    color: #6d6d6d
+    font-size: 14px
+    font-weight: 400
+    line-height: 22px
+    border-radius: 6px
+    border: 1px solid #ececec
+    background-color: #ffffff
+    position: relative
+    padding-left: 60px
+    margin-bottom: 32px
+
+    &:before
+      content: ''
+      display: block
+      position: absolute
+      left: 23px
+      top: 50%
+      margin-top: -11px
+      width: 20px
+      height: 20px
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%234596ff' d='M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-36 344h12V232h-12c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h48c6.627 0 12 5.373 12 12v140h12c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12h-72c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12zm36-240c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z'/%3E%3C/svg%3E")
+      background-position: center center
+      background-repeat: no-repeat
+      background-size: contain
+
+    &:after
+      content: ''
+      display: block
+      position: absolute
+      left: 0
+      top: 0
+      height: 100%
+      width: 7px
+      border-bottom-left-radius: 6px
+      border-top-left-radius: 6px
+      background-color: #4596ff
+
+
+  h4
+    color: #222222
+    font-size: 20px
+    font-weight: 400
+    margin-bottom: 24px
+
+  p
+    color: #424242
+    font-size: 16px
+    font-weight: 400
+    line-height: 24px
+
+        

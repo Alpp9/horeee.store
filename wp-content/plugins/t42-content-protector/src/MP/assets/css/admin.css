@@ -1,0 +1,102 @@
+/**
+ * Content Protector for WordPress. Exclusively on Envato Market: https://1.envato.market/42themeCC
+ * @encoding     UTF-8
+ * @version      1.0.9
+ * @copyright    Copyright (C) 2016 - 2021 42Theme (https://42theme.com). All rights reserved.
+ * @license      Envato Standard Licenses
+ * @author       Alexander Khmelnitskiy
+ * @support      support@42theme.com
+ **/
+/** Input group field. */
+.t42-input-group {
+  display: flex; }
+  .t42-input-group .t42-form-label {
+    margin-bottom: 0; }
+  .t42-input-group input[type="text"],
+  .t42-input-group input[type="number"] {
+    outline: none;
+    box-shadow: none; }
+
+.t42-input-group-append,
+.t42-input-group-prepend {
+  display: flex;
+  align-items: center; }
+
+.t42-input-group-text {
+  display: flex;
+  align-items: center;
+  font-weight: 400;
+  height: 40px;
+  box-sizing: border-box;
+  color: #495057;
+  padding: 0 10px 0;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da; }
+
+.t42-input-group-prepend .t42-input-group-text {
+  border-right: none; }
+
+.t42-has-prefix input[type="text"],
+.t42-has-prefix input[type="number"] {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0; }
+
+.t42-input-group-append .t42-input-group-text {
+  border-left: none; }
+
+.t42-has-suffix input[type="text"],
+.t42-has-suffix input[type="number"] {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0; }
+
+/** Divider field. */
+.t42-filed-divider {
+  margin-left: -220px; }
+
+/** Header field. */
+.t42-header-field {
+  margin-left: -220px; }
+
+/** Button field. */
+.t42-button-field .t42-icon {
+  position: relative;
+  top: -3px; }
+
+/** Save Changes button. */
+.t42-save-settings-btn:disabled, .t42-save-settings-btn[disabled] {
+  background: #35414a;
+  color: #919598;
+  border: #35414a; }
+  .t42-save-settings-btn:disabled:hover, .t42-save-settings-btn[disabled]:hover {
+    background: #35414a;
+    color: #919598;
+    border: #35414a; }
+
+/** CodeMirror. */
+.CodeMirror {
+  border: 1px solid rgba(0, 0, 0, 0.12); }
+
+/** Updates tab. */
+.t42-tab-updates-box .form-table th {
+  width: 0;
+  padding: 0; }
+
+.t42-tab-updates-box .form-table td {
+  padding-left: 0; }
+
+/** Custom tippy tooltips. */
+.tippy-box[data-theme="t42-light"] {
+  background: #fff;
+  padding: 0;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px #63728229, 0 8px 16px #1b273314;
+  color: #333; }
+  .tippy-box[data-theme="t42-light"] .tippy-arrow {
+    color: #fff; }
+  .tippy-box[data-theme="t42-light"] .tippy-content {
+    padding: 10px 16px; }
+  .tippy-box[data-theme="t42-light"] .t42-tippy-content * + p {
+    margin-top: 8px;
+    font-family: inherit; }

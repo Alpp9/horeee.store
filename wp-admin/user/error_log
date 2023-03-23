@@ -1,0 +1,6 @@
+[27-Aug-2022 07:05:13 UTC] PHP Warning:  Undefined property: stdClass::$addons in /home/hord8138/public_html/wp-content/plugins/all-in-one-seo-pack-pro/app/Pro/Admin/License.php on line 222
+[30-Aug-2022 02:10:27 UTC] PHP Warning:  Undefined property: stdClass::$addons in /home/hord8138/public_html/wp-content/plugins/all-in-one-seo-pack-pro/app/Pro/Admin/License.php on line 222
+[01-Dec-2022 12:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/hord8138/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hord8138/public_html/wp-admin/user/menu.php on line 10

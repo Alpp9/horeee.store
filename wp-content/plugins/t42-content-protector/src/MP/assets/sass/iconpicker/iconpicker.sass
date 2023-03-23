@@ -1,0 +1,229 @@
+/**
+ * Content Protector for WordPress. Exclusively on Envato Market: https://1.envato.market/42themeCC
+ * @encoding     UTF-8
+ * @version      1.0.9
+ * @copyright    Copyright (C) 2016 - 2021 42Theme (https://42theme.com). All rights reserved.
+ * @license      Envato Standard Licenses
+ * @author       Alexander Khmelnitskiy
+ * @support      support@42theme.com
+ **/
+
+// Image Box
+.t42-icon-field-img-box
+  height: 120px
+  width: 300px
+  position: relative
+  border: 1px solid #d2d7db
+  background-color: rgba(2, 116, 230, 0.12)
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath fill='%23fff' d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z'/%3E%3C/svg%3E")
+  background-repeat: no-repeat
+  background-position: center center
+  background-size: 20px
+  cursor: pointer
+  margin-bottom: 42px
+  border-top-right-radius: 4px
+  border-top-left-radius: 4px
+
+  .t42-icon-field-remove
+    display: none
+    cursor: pointer
+    position: absolute
+    right: 10px
+    top: 10px
+    background: #fff
+    border: 1px solid #d2d7db
+    border-radius: 5px
+    padding: 4px 4px 0 4px
+    user-select: none
+
+    &:hover,
+    &:focus
+      border-color: #0274e6
+
+    &:active
+      top: 11px
+
+
+  .t42-icon-field-image
+    display: none
+
+  &.t42-with-image
+    background-image: -webkit-linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd), -webkit-linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd)
+    background-image: -o-linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd), -o-linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd)
+    background-image: linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd), linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd)
+    -webkit-background-size: 16px 16px
+    background-size: 16px 16px
+    background-position: 0 0, 8px 8px
+    background-color: #f6f6f6
+    background-repeat: repeat
+
+    // Remove btn
+    .t42-icon-field-remove
+      display: block
+      padding: 2px
+
+    .t42-icon-field-image
+      display: block
+      max-width: 100%
+      max-height: 100%
+      overflow: hidden
+      text-align: center
+
+      img
+        height: 90px
+        margin-top: 15px
+
+
+  // Library btn
+  .t42-icon-field-library-btn
+    cursor: pointer
+    position: absolute
+    left: -1px
+    bottom: -40px
+    width: calc(50% + 2px)
+    border-top-left-radius: 0
+    border-top-right-radius: 0
+    border-bottom-right-radius: 0
+
+
+  // Upload btn
+  .t42-icon-field-upload-btn
+    cursor: pointer
+    position: absolute
+    right: -1px
+    bottom: -40px
+    width: calc(50% + 1px)
+    border-top-right-radius: 0
+    border-top-left-radius: 0
+    border-bottom-left-radius: 0
+
+html.t42-icon-field-modal-opened
+  overflow: hidden
+
+.t42-icon-field-modal-box
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+  z-index: 99999
+  background: rgba(0, 0, 0, 0.8)
+
+  > div
+    background: #fff
+    position: absolute
+    margin: auto
+    width: 80%
+    height: 80%
+    min-width: 300px
+    min-height: 300px
+    border-radius: 4px
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+    display: flex
+    flex-direction: column
+
+
+    // Header
+    .t42-icon-field-modal-header
+      display: flex
+      justify-content: space-between
+      align-items: center
+      height: 50px
+      border-bottom-color: rgba(0, 0, 0, 0.12)
+      border-bottom-width: 1px
+      border-bottom-style: solid
+
+      > div
+        padding: 0 15px
+        font-size: 18px
+
+      .t42-icon
+        cursor: pointer
+        margin-right: 15px
+
+        &:hover,
+        &:focus
+          color: #0274e6
+
+
+    // Content
+    .t42-icon-field-modal-content
+      min-height: 200px
+      flex: 1
+
+      > div
+        padding: 15px
+        display: flex
+        flex-direction: column
+        height: 100%
+
+        .t42-icon-field-icon-search > div
+          width: 100%
+          height: 36px
+
+          .t42-text-field__icon
+            bottom: 6px
+
+      .t42-search-field
+        padding: 3px 5px 3px 35px
+
+      .t42-icon-field-category-title h3
+        margin-top: 25px
+        margin-bottom: 25px
+
+      .t42-icon-field-category-box
+        overflow-x: hidden
+        overflow-y: scroll
+        margin: 25px 0
+        padding: 15px
+        flex: 1
+
+      .t42-icon-field-category-items
+        display: flex
+        flex-direction: row
+        flex-wrap: wrap
+        align-items: flex-start
+        justify-content: flex-start
+
+        .t42-icon-field-category-icon-box
+          border-radius: 4px
+          border: 2px solid transparent
+          width: 10%
+
+          &:hover
+            box-shadow: 0 1px 14px rgba(0, 0, 0, 0.08)
+            cursor: pointer
+
+          &.t42-active
+            border: 2px solid #0274e6
+
+          > div
+            padding: 10px
+            display: flex
+            flex-direction: column
+            align-items: center
+
+            img
+              height: 55px
+              max-width: 110px
+
+            span
+              display: block
+              width: 100%
+              text-align: center
+              margin-top: 10px
+
+    // Footer
+    .t42-icon-field-modal-footer
+      display: flex
+      justify-content: flex-end
+      align-items: center
+      height: 50px
+      border-top-color: rgba(0, 0, 0, 0.12)
+      border-top-width: 1px
+      border-top-style: solid
+
+      > div
+        padding: 0 15px
